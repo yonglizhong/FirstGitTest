@@ -1,4 +1,6 @@
 I have made a text file to for git repo testing
  
  Now I have added a new line for new commit
+
+ Another change
  
